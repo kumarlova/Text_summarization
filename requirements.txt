@@ -1,0 +1,5 @@
+Flask
+langchain
+langchain-community
+unstructured
+ctransformers
